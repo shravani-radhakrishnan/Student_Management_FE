@@ -1,0 +1,15 @@
+.student-form{
+    width: 500px;
+    margin: auto; 
+}
+.student-form > .form-feild{
+    margin: 10px auto;
+}
+.react-tel-input .form-control{
+    height: 50px !important;
+    padding-left: 55px !important;
+    width: 100% !important;
+}
+.react-tel-input .selected-flag {
+    width: 46px !important;
+}
